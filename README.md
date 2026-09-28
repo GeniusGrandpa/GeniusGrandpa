@@ -75,7 +75,6 @@ Most of my time is spent on:
 
 ### Operating Systems
 
-- Linux
 - Windows
 - Kali Linux
 - Ubuntu
@@ -105,9 +104,7 @@ Most of my time is spent on:
 
 ### Web Development
 
-- React
-- TypeScript
-- Vite
+- Javascript
 - Tailwind CSS
 - Supabase
 - REST APIs
@@ -166,7 +163,6 @@ Automation:
 - Offensive Security
 - Web Application Penetration Testing
 - Active Directory Security
-- Red Team Operations
 - Security Engineering
 - Threat Detection
 - Security Automation
@@ -181,6 +177,7 @@ I work on modern web development projects, especially applications that involve 
 My development stack includes:
 
 - React
+- Vue
 - TypeScript
 - Vite
 - Tailwind CSS
