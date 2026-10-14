@@ -1,213 +1,335 @@
-# Anil Tamang
+# Genius Grandpa
 
-### Cybersecurity | Ethical Hacking Enthusiast | Web Developer
+### Cybersecurity \| Ethical Hacking \| Web Development
 
-I am a cybersecurity student focused on practical offensive security, system security, secure software development, and modern web application development.
+I'm an Ethical Hacking and Cybersecurity undergraduate interested in
+understanding how systems work, identifying security weaknesses, and
+building better, more secure applications.
 
-I learn by building, breaking, exploiting, fixing, and documenting everything I discover.
+I learn through hands-on practice, technical projects, cybersecurity
+labs, and software development. I enjoy exploring the intersection of
+offensive security, application security, and modern web technologies.
 
-Alongside cybersecurity, I also build full-stack web applications using modern technologies. My web development background helps me understand how real-world applications are built, how they fail, and how they can be secured.
+My approach is simple: **Learn. Build. Test. Analyze. Improve.**
+
+------------------------------------------------------------------------
 
 ## About Me
 
-- Cybersecurity learner with a strong interest in offensive security
-- Web developer focused on building secure and practical applications
-- Passionate about practical, hands-on learning
-- Regularly solving CTFs, vulnerable labs, and security challenges
-- Building security knowledge through research and technical writeups
-- Interested in secure software development and application hardening
-- Focused on understanding how systems work, how they fail, and how to improve them
+-   Studying Ethical Hacking and Cybersecurity.
+-   Exploring cybersecurity, ethical hacking, and information security.
+-   Practising through TryHackMe and hands-on security labs.
+-   Developing web applications using modern frontend and backend
+    technologies.
+-   Building projects and experimenting with Python and security
+    tooling.
+-   Interested in application security, networking, Linux, and system
+    fundamentals.
+-   Continuously learning through technical projects, research, and
+    practical exercises.
+
+------------------------------------------------------------------------
 
 ## Current Focus
 
-- Linux Enumeration & Privilege Escalation
-- Windows Enumeration & Privilege Escalation
-- Active Directory Security
-- Web Application Security
-- Vulnerability Assessment
-- Security Automation & Scripting
-- Capture The Flag Challenges
-- Secure Development Practices
-- Full-Stack Web Development
-- API Security
-- Application Hardening
+My current learning and development interests include:
 
-## Learning Philosophy
+-   **TryHackMe:** Hands-on cybersecurity learning and practical labs.
+-   **Linux & Networking:** Command-line fundamentals, network
+    protocols, and enumeration.
+-   **Web Application Security:** Understanding common vulnerabilities
+    and secure application design.
+-   **API Security:** Exploring HTTP requests, responses,
+    authentication, and application behaviour.
+-   **Security Automation:** Using Python to develop tools and automate
+    technical tasks.
+-   **Operating Systems:** Understanding processes, system interactions,
+    and operating system fundamentals.
+-   **Full-Stack Development:** Building web applications with modern
+    frameworks, APIs, and databases.
+-   **Secure Development:** Improving application security,
+    authentication, and access control.
 
-```text
-Build
- └─► Break
-      └─► Analyze
-           └─► Fix
-                └─► Document
-                     └─► Repeat
+------------------------------------------------------------------------
+
+## Cybersecurity Practice
+
+### TryHackMe
+
+I use TryHackMe to develop my cybersecurity knowledge through
+interactive learning and practical lab exercises.
+
+Areas of interest include:
+
+-   Linux fundamentals
+-   Networking fundamentals
+-   Cybersecurity concepts
+-   Enumeration and reconnaissance
+-   Web application security
+-   Security tools and methodologies
+
+I'm continuing to develop my practical skills through structured
+learning and hands-on exercises.
+
+### Learning Approach
+
+``` text
+Learn
+  |
+  v
+Practice
+  |
+  v
+Investigate
+  |
+  v
+Understand
+  |
+  v
+Document
+  |
+  v
+Improve
 ```
 
-I believe practical experience is one of the most effective ways to learn cybersecurity and software development.
+My goal is to understand not only how a technique works, but also why it
+works, how weaknesses can be identified, and how systems can be made
+more secure.
 
-Most of my time is spent on:
-
-- TryHackMe
-- Hack The Box
-- CTF Competitions
-- Vulnerable Labs
-- Home Lab Experiments
-- Security Research
-- Web Development Projects
-- Technical Documentation
-
-## Goals
-
-- Earn practical cybersecurity certifications
-  - eJPT
-  - PNPT
-  - CRTP
-  - OSCP
-- Deepen Active Directory knowledge
-- Build and open-source security tools
-- Build secure full-stack web applications
-- Publish detailed technical writeups
-- Improve scripting and automation skills
-- Develop stronger Red Team and Blue Team fundamentals
-- Improve secure coding and application security skills
+------------------------------------------------------------------------
 
 ## Technical Skills
 
 ### Operating Systems
 
-- Windows
-- Kali Linux
-- Ubuntu
+-   Linux
+-   Kali Linux
+-   Windows
+-   Ubuntu
 
-### Cybersecurity
+### Cybersecurity & Networking
 
-- Enumeration
-- Privilege Escalation
-- Web Application Security
-- SQL Injection
-- Local File Inclusion
-- Authentication Testing
-- Vulnerability Assessment
-- Active Directory Fundamentals
-- Secure Development Practices
-- API Security
-- Application Hardening
+-   Information Security Fundamentals
+-   Vulnerability Assessment Fundamentals
+-   Web Application Security
+-   Penetration-Testing Fundamentals
+-   Digital Forensics and Incident Response (DFIR)
+-   TCP/IP
+-   DNS
+-   HTTP/HTTPS
+-   API Security Fundamentals
+
+### Security Tools
+
+-   Burp Suite
+-   Nmap
+-   Wireshark
+-   mitmproxy
 
 ### Programming & Scripting
 
-- Python
-- JavaScript
-- TypeScript
-- PowerShell
-- Bash
-- SQL
+-   Python
+-   JavaScript
+-   TypeScript
+-   C
+-   SQL
+-   Bash
+-   PowerShell
 
 ### Web Development
 
-- Javascript
-- Tailwind CSS
-- Supabase
-- REST APIs
-- Frontend Development
-- Full-Stack Application Development
-- Responsive UI Development
-- Authentication Systems
-- Role-Based Access Control
-- Dashboard Development
+-   React
+-   Vue.js
+-   Next.js
+-   Node.js
+-   FastAPI
+-   Vite
+-   Tailwind CSS
+-   REST APIs
+-   WebSockets
 
-### Databases
+### Databases & Development Tools
 
-- MySQL
-- PostgreSQL
-- SQLite
+-   SQLite
+-   PostgreSQL
+-   Supabase
+-   Git
+-   GitHub
+-   GCC
 
-### Tools
+*My experience varies by technology, and I'm continuing to develop these
+skills through study and practical projects.*
 
-- Burp Suite
-- Nmap
-- Wireshark
-- Metasploit
-- Gobuster
-- ffuf
-- BloodHound
-- Impacket
-- Git
-- GitHub
+------------------------------------------------------------------------
+
+## Featured Projects
+
+### API Interceptor
+
+**Technologies:** Python, mitmproxy, FastAPI, WebSockets, SQLite
+
+A web traffic inspection project designed to provide an interactive way
+to inspect HTTP/HTTPS requests and responses.
+
+Key areas:
+
+-   HTTP/HTTPS traffic inspection
+-   Traffic handling using mitmproxy
+-   FastAPI backend integration
+-   Real-time updates using WebSockets
+-   SQLite-based data persistence
+
+**Repository:** [API
+Interceptor](https://github.com/GeniusGrandpa/API-interceptor)
+
+### Investigating Process Lifecycles and OS Interaction
+
+**Focus:** Operating Systems
+
+A project exploring process lifecycles and how processes interact with
+the operating system.
+
+**Repository:** [Investigating Process Lifecycles and OS
+Interaction](https://github.com/GeniusGrandpa/Investigating-Process-Lifecycles-and-OS-Interaction)
+
+### Investigation and Analysis of Computing Data for Data Management
+
+**Technology:** Python
+
+A Python-based project focused on investigating and analysing computing
+data for data-management tasks.
+
+**Repository:** [Investigation and Analysis of Computing Data for Data
+Management](https://github.com/GeniusGrandpa/Investigation-and-Analysis-of-Computing-Data-for-Data-Management)
+
+### Buddha Academy Sponsorship Website
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, Supabase
+
+A web platform supporting student sponsorships, donations, and community
+engagement.
+
+The project involves modern frontend development and Supabase-backed
+application data.
+
+*The repository is private.*
+
+### Learning C Programming
+
+**Technologies:** C, GCC
+
+A learning project focused on C programming fundamentals, compilation,
+executable files, and the compilation process.
+
+**Repository:** [Learning C
+Programming](https://github.com/GeniusGrandpa/learning-C-Programming)
+
+------------------------------------------------------------------------
 
 ## Currently Learning
 
-```yaml
-Security:
-  - Active Directory
-  - Windows Internals
-  - Red Team Methodology
-  - Detection Engineering
+``` yaml
+Cybersecurity:
+  - TryHackMe Labs
+  - Linux Fundamentals
+  - Networking Fundamentals
   - Web Application Security
   - API Security
+  - Vulnerability Assessment
 
 Development:
-  - Secure Coding
-  - Full-Stack Development
-  - Application Hardening
+  - Full-Stack Web Development
+  - Secure Coding Practices
   - Authentication and Authorization
   - Database Security
+  - Application Hardening
 
 Automation:
-  - Python Security Tooling
-  - PowerShell Automation
-  - Security Scripting
+  - Python Scripting
+  - Security Tool Development
+  - Technical Automation
 ```
 
-## Interests
+------------------------------------------------------------------------
 
-- Offensive Security
-- Web Application Penetration Testing
-- Active Directory Security
-- Security Engineering
-- Threat Detection
-- Security Automation
-- Secure Web Development
-- Open Source Security Projects
-- Full-Stack Application Development
+## Technical Activities
 
-## Web Development Focus
+-   Participated in TRI-KODE: The Ultimate Hackathon as a member of Team
+    Ballers.
+-   Participated in the Digital Forensics and Incident Response (DFIR)
+    Challenge 2026 as a member of Team Nutty Raccoons.
 
-I work on modern web development projects, especially applications that involve authentication, dashboards, databases, role-based access control, and secure user flows.
+------------------------------------------------------------------------
 
-My development stack includes:
+## Future Goals
 
-- React
-- Vue
-- TypeScript
-- Vite
-- Tailwind CSS
-- Supabase
-- PostgreSQL
-- REST APIs
-- Git and GitHub
+-   Continue developing practical cybersecurity skills through TryHackMe
+    and security labs.
+-   Build useful, well-documented cybersecurity tools.
+-   Improve my understanding of web application and API security.
+-   Develop stronger Linux, networking, and operating system
+    fundamentals.
+-   Build secure, maintainable full-stack applications.
+-   Participate in more cybersecurity challenges and technical
+    competitions.
+-   Document projects, lessons learned, and technical research.
+-   Work towards relevant cybersecurity certifications as my knowledge
+    develops.
 
-I aim to build applications that are functional, user-friendly, secure, maintainable, and production-ready.
+------------------------------------------------------------------------
 
-## Writeups & Research
+## Web Development
 
-I regularly document:
+Alongside cybersecurity, I enjoy building modern web applications.
 
-- CTF Walkthroughs
-- Active Directory Attack Paths
-- Privilege Escalation Techniques
-- Web Exploitation Labs
-- Enumeration Methodologies
-- Security Research Notes
-- Secure Development Lessons
-- Web Application Security Findings
+My development interests include:
 
-> "If you can't explain it, you don't fully understand it."
+-   Responsive user interfaces
+-   Full-stack application development
+-   Backend APIs and database integration
+-   Authentication and authorization
+-   Role-based access control
+-   Dashboard development
+-   Application troubleshooting
+-   Secure application design
 
-## Connect
+I aim to understand both sides of software: how applications are
+developed and how they can be tested, maintained, and secured.
 
-- Email: aniltmg871@gmail.com
-- LinkedIn: https://www.linkedin.com/in/anil-tamang-44660a324/
+------------------------------------------------------------------------
+
+## Learning & Documentation
+
+I believe documenting what I learn is an important part of developing
+technical skills.
+
+Topics I'd like to explore and document include:
+
+-   TryHackMe learning notes
+-   Cybersecurity lab investigations
+-   Networking and Linux concepts
+-   Web application security
+-   API security
+-   Python projects and automation
+-   Operating system fundamentals
+-   Secure development practices
+
+My goal is to turn practical experience into clear, useful technical
+knowledge.
+
+------------------------------------------------------------------------
+
+## Connect With Me
+
+-   **GitHub:** [@GeniusGrandpa](https://github.com/GeniusGrandpa)
+-   **LinkedIn:** [Connect with
+    me](https://www.linkedin.com/in/anil-tamang-44660a324)
+-   **Email:** aniltmg871@gmail.com
+
+------------------------------------------------------------------------
 
 ## Personal Motto
 
-> Learn. Break. Understand. Improve. Teach.
+> Learn. Build. Break. Understand. Improve. Teach.
+
+*Always learning. Always building. Always improving.*
