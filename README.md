@@ -1,6 +1,6 @@
 # Genius Grandpa
 
-### Cybersecurity \| Ethical Hacking \| Web Development
+### Cybersecurity | Ethical Hacking | Security Research
 
 I'm an Ethical Hacking and Cybersecurity undergraduate interested in
 understanding how systems work, identifying security weaknesses, and
@@ -10,9 +10,7 @@ I learn through hands-on practice, technical projects, cybersecurity
 labs, and software development. I enjoy exploring the intersection of
 offensive security, application security, and modern web technologies.
 
-My approach is simple: **Learn. Build. Test. Analyze. Improve.**
-
-------------------------------------------------------------------------
+**Learn. Build. Test. Analyze. Improve.**
 
 ## About Me
 
@@ -27,8 +25,6 @@ My approach is simple: **Learn. Build. Test. Analyze. Improve.**
     fundamentals.
 -   Continuously learning through technical projects, research, and
     practical exercises.
-
-------------------------------------------------------------------------
 
 ## Current Focus
 
@@ -49,8 +45,6 @@ My current learning and development interests include:
     frameworks, APIs, and databases.
 -   **Secure Development:** Improving application security,
     authentication, and access control.
-
-------------------------------------------------------------------------
 
 ## Cybersecurity Practice
 
@@ -95,8 +89,6 @@ Improve
 My goal is to understand not only how a technique works, but also why it
 works, how weaknesses can be identified, and how systems can be made
 more secure.
-
-------------------------------------------------------------------------
 
 ## Technical Skills
 
@@ -160,11 +152,9 @@ more secure.
 *My experience varies by technology, and I'm continuing to develop these
 skills through study and practical projects.*
 
-------------------------------------------------------------------------
+## Projects
 
-## Featured Projects
-
-### API Interceptor
+### 01. API Interceptor
 
 **Technologies:** Python, mitmproxy, FastAPI, WebSockets, SQLite
 
@@ -179,10 +169,10 @@ Key areas:
 -   Real-time updates using WebSockets
 -   SQLite-based data persistence
 
-**Repository:** [API
-Interceptor](https://github.com/GeniusGrandpa/API-interceptor)
+**Repository:** 
+[API Interceptor](https://github.com/GeniusGrandpa/API-interceptor)
 
-### Investigating Process Lifecycles and OS Interaction
+### 02. Investigating Process Lifecycles and OS Interaction
 
 **Focus:** Operating Systems
 
@@ -192,7 +182,7 @@ the operating system.
 **Repository:** [Investigating Process Lifecycles and OS
 Interaction](https://github.com/GeniusGrandpa/Investigating-Process-Lifecycles-and-OS-Interaction)
 
-### Investigation and Analysis of Computing Data for Data Management
+### 03. Investigation and Analysis of Computing Data for Data Management
 
 **Technology:** Python
 
@@ -202,7 +192,7 @@ data for data-management tasks.
 **Repository:** [Investigation and Analysis of Computing Data for Data
 Management](https://github.com/GeniusGrandpa/Investigation-and-Analysis-of-Computing-Data-for-Data-Management)
 
-### Buddha Academy Sponsorship Website
+### 04. Buddha Academy Sponsorship Website
 
 **Technologies:** React, TypeScript, Vite, Tailwind CSS, Supabase
 
@@ -214,7 +204,7 @@ application data.
 
 *The repository is private.*
 
-### Learning C Programming
+### 05. Learning C Programming
 
 **Technologies:** C, GCC
 
@@ -223,8 +213,6 @@ executable files, and the compilation process.
 
 **Repository:** [Learning C
 Programming](https://github.com/GeniusGrandpa/learning-C-Programming)
-
-------------------------------------------------------------------------
 
 ## Currently Learning
 
@@ -250,16 +238,12 @@ Automation:
   - Technical Automation
 ```
 
-------------------------------------------------------------------------
-
 ## Technical Activities
 
 -   Participated in TRI-KODE: The Ultimate Hackathon as a member of Team
     Ballers.
 -   Participated in the Digital Forensics and Incident Response (DFIR)
     Challenge 2026 as a member of Team Nutty Raccoons.
-
-------------------------------------------------------------------------
 
 ## Future Goals
 
@@ -276,9 +260,7 @@ Automation:
 -   Work towards relevant cybersecurity certifications as my knowledge
     develops.
 
-------------------------------------------------------------------------
-
-## Web Development
+## Software & Systems
 
 Alongside cybersecurity, I enjoy building modern web applications.
 
@@ -295,8 +277,6 @@ My development interests include:
 
 I aim to understand both sides of software: how applications are
 developed and how they can be tested, maintained, and secured.
-
-------------------------------------------------------------------------
 
 ## Learning & Documentation
 
@@ -317,8 +297,6 @@ Topics I'd like to explore and document include:
 My goal is to turn practical experience into clear, useful technical
 knowledge.
 
-------------------------------------------------------------------------
-
 ## Connect With Me
 
 -   **GitHub:** [@GeniusGrandpa](https://github.com/GeniusGrandpa)
@@ -326,7 +304,6 @@ knowledge.
     me](https://www.linkedin.com/in/anil-tamang-44660a324)
 -   **Email:** aniltmg871@gmail.com
 
-------------------------------------------------------------------------
 
 ## Personal Motto
 
